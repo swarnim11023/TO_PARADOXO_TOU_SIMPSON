@@ -303,7 +303,7 @@ Do you want to hear one more truth?
 
 **Do  still you believe the statistical phenomenon described above should be considered a paradox?**
 
->Mathematician Jordan Ellenberg argues that Simpson's paradox is misnamed as **"there's no contradiction involved, just two different ways to think about the same data"** and suggests that its lesson **"isn't really to tell us which viewpoint to take but to insist that we keep both the parts and the whole in mind at once."**
+>Mathematician **Jordan Ellenberg** argues that Simpson's paradox is misnamed as **"there's no contradiction involved, just two different ways to think about the same data"** and suggests that its lesson **"isn't really to tell us which viewpoint to take but to insist that we keep both the parts and the whole in mind at once."**
 
 Although criticized, Simpson's paradox remains a fascinating and frequently explored topic in statistics and data analysis. Its ongoing study across diverse disciplines highlights the importance of nuanced statistical methods and the dangers of oversimplifying data interpretations.
 
