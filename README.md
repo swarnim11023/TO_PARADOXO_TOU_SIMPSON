@@ -223,20 +223,6 @@ And you see, the mathematical results are consistent with the [figure 2](https:/
 
 
 
-
-
- 
- <!-- If data can be partitioned so that there is one Simpson reversal then it must be possible for
- reversals to continue as data is partitioned further. 
- 
-  Such a situation is illustrated in Figure 3.  It
- shows the casuality rates  of Infantry I (first battalion consisiting of swordsmen),Infantry II( Second batallion consisting of archers), Cavalry I(Light armoured battalion) and Cavalry II(heavy armoured batallion) . This partitioning leads to four subsets of the original data.  As
- indicted in the figure, casuality rate of Leibniz'batalion  is higher than those of Newton's .  Aggregating up a level to regiments
-leads to Figure 1 with the reversed conclusion that Leibniz Army did better.  Aggregating up yet another level
- to the entire data set reverses this conclusion with Newton's Army  doing better than Leibniz's aArmy. THhis eventually leads me to  ask which  Army was better?
- -->
-
-
  >_**If data can be partitioned in such a way that a single Simpson's reversal emerges, then, logically, it seems inevitable that this reversal will continue as the data is divided even further.**_
 
 This very phenomenon is vividly illustrated in Figure 3, where the casualty rates of four distinct military units are laid bare: Infantry I (the swordsmen of the first battalion), Infantry II (the archers of the second battalion), Cavalry I (the nimble, lightly armored cavalry), and Cavalry II (the mighty, heavily armored cavalry). With this partitioning, the data splits into four subsets, each telling its own tale. In every single one, Leibniz's battalion suffers greater casualties than Newton's—at least, that's what the numbers suggest.
