@@ -3,7 +3,6 @@
 
 
 ## SIMPSON'S PARADOX : WHEN STATISTICS  DEFY COMMON SENSE 
-</center>
 
  <!-- Lets dive back in time to 1711.
 
