@@ -125,7 +125,8 @@ Now, I ask you to take a moment and reflect on where the anomaly might lie. Why 
 The timing is perfect for a revelation!
 
 Brace yourself—here’s the formal definition of Simpson's Paradox:
-**Simpson's paradox is a phenomenon in probability and statistics in which a trend appears in several groups of data but disappears or reverses when the groups are combined.**
+<br>
+### **Simpson's paradox is a phenomenon in probability and statistics in which a trend appears in several groups of data but disappears or reverses when the groups are combined.**
 
 While you ponder this, let us dive deeper into the demographics of both armies. Understanding the makeup of _Newton_ and _Leibniz’s_ forces may provide the key to unraveling this perplexing paradox.
 
