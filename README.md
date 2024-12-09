@@ -64,11 +64,11 @@ As a renowned mathematician in my hypothetical world, I must now turn my attenti
 
 
 <!-- 
-_**The front that suffered fewer casualities was victorious.**_
+_**The front that suffered fewer casualties was victorious.**_
 
-**Which side do you think suffered greater casualities ?**
+**Which side do you think suffered greater casualties ?**
 
-Most of you would have guessed Newton suffered more casualities just because both infantry and cavalry had higher casuality percentage.
+Most of you would have guessed Newton suffered more casualties just because both infantry and cavalry had higher casualty percentage.
 
 
 **But Newton did not lose!!!!**
@@ -100,8 +100,8 @@ This revelation struck me like a thunderclap. I, too, was shaken by the truth of
 </figure>
 
 
- >_"Overall casuality rate of Newton could
- be less than that of Leibniz if at least one of the Newton's regiment's casuality rate had been less than that of Leibniz . There was no way that the weighted average of casuality rates could show such contrary results."_
+ >_"Overall casualty rate of Newton could
+ be less than that of Leibniz if at least one of the Newton's regiment's casualty rate had been less than that of Leibniz . There was no way that the weighted average of casualty rates could show such contrary results."_
  <p align="right">— Common Sense</p>
 
 <!-- - Common Sense** -->
@@ -182,8 +182,8 @@ Lets put the Mathematics going behind in front of you.
 
 From the graphs, the following observations are very straightforward:
 
-+ Casuality rate of _Newton's_ Infantry :<br> **C.R.<sub>N<sub>i </sub> </sub> = _80%_**
-+ Casuality rate of _Newton's_ Cavalry :<br> **C.R.<sub>N<sub>c </sub> </sub>=_25%_**<br>
++ casualty rate of _Newton's_ Infantry :<br> **C.R.<sub>N<sub>i </sub> </sub> = _80%_**
++ casualty rate of _Newton's_ Cavalry :<br> **C.R.<sub>N<sub>c </sub> </sub>=_25%_**<br>
 
 <br>
 
@@ -194,12 +194,12 @@ From the graphs, the following observations are very straightforward:
 <br>
 
 
-#### **Overall casuality rate of Newton's Army = (C.R.<sub>N<sub>i </sub> </sub>x P<sub>N<sub>i </sub> </sub>) + ( C.R.<sub>N<sub>c </sub> </sub>x P<sub>N<sub>c </sub> </sub>) = _(80% x 20%) +(25% x 80%) = 36%_**
+#### **Overall casualty rate of Newton's Army = (C.R.<sub>N<sub>i </sub> </sub>x P<sub>N<sub>i </sub> </sub>) + ( C.R.<sub>N<sub>c </sub> </sub>x P<sub>N<sub>c </sub> </sub>) = _(80% x 20%) +(25% x 80%) = 36%_**
 
 <br>
 
-+ Casuality rate of _Leibniz's_ Infantry :<br> **C.R.<sub>L<sub>i </sub> </sub> = _50%_**
-+ Casuality rate of _Leibniz's_ Cavalry :<br> **C.R.<sub>L<sub>c </sub> </sub>=_20%_**
++ casualty rate of _Leibniz's_ Infantry :<br> **C.R.<sub>L<sub>i </sub> </sub> = _50%_**
++ casualty rate of _Leibniz's_ Cavalry :<br> **C.R.<sub>L<sub>c </sub> </sub>=_20%_**
 
 <br>
 
@@ -211,11 +211,11 @@ From the graphs, the following observations are very straightforward:
 
 
 
-#### **Overall casuality rate of Leibniz's Army = (C.R.<sub>L<sub>i </sub> </sub> x  P<sub>L<sub>i </sub> </sub>) + ( C.R.<sub>L<sub>c </sub> </sub> x P<sub>L<sub>c </sub> </sub>) = _(50% x 80%) +(20% x 20% )= 44%_**
+#### **Overall casualty rate of Leibniz's Army = (C.R.<sub>L<sub>i </sub> </sub> x  P<sub>L<sub>i </sub> </sub>) + ( C.R.<sub>L<sub>c </sub> </sub> x P<sub>L<sub>c </sub> </sub>) = _(50% x 80%) +(20% x 20% )= 44%_**
 
 <!-- 
 
-(Casuality rate of infantry ) \* (Percentage of infantry in Army)+(Casuality rate of cavalry)\*(Percentage of cavalry in Army)=** -->
+(casualty rate of infantry ) \* (Percentage of infantry in Army)+(casualty rate of cavalry)\*(Percentage of cavalry in Army)=** -->
 <br>
 
 And you see, the mathematical results are consistent with the [figure 2](https://github.com/user-attachments/assets/a5e9980b-b348-4fae-985c-fd65bae891a2) .
