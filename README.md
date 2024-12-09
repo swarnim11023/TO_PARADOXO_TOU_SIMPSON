@@ -4,15 +4,8 @@
 
 ## SIMPSON'S PARADOX : WHEN STATISTICS  DEFY COMMON SENSE 
 
- <!-- Lets dive back in time to 1711.
 
-You are standing in middle of The Great War of Mathematics(Lets assume you wont get hit by raining  arrows of logic or attacked by razor sharp deductions ) fought between two contemporary nemesis of each other- Newton and Leibniz.
-Both had enormous army of axioms and theorems.Have you ever wondered how an real battlefield of mathematics would have looked like.If not ,Lets do it today .Since chiildhood I wanted to have a hypothesis in my name , guess what ,i came with following nonsensical one .....emoji......
 
-From now  your journey in my hypothetical world begins......
-
-Let us  visualise axioms to be infantrymen  and the theorems to be cavalry.Newton  had a rich army of fearless infantry and cavalry say N<SUB>i</SUB>  and N<SUB>c</SUB> respectively . Leibniz's army was no less heroic having brave  infantry and cavalry say L<sub>i</sub> and L<sub>c</sub>.
-The war raged across the battlefield for 7 years. -->
 
 
 
