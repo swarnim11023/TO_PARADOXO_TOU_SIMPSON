@@ -11,6 +11,8 @@
 
 
 
+
+
 ## The Great War of Mathematics  
 
 Let’s journey back in time to the year **1711**.  
@@ -56,7 +58,7 @@ As a renowned mathematician in my hypothetical world, I must now turn my attenti
 
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/f76d0c38-0dc6-4aee-bed4-2f11c78b62b6" alt="Placeholder Image" />
+  <img src="https://github.com/user-attachments/assets/f72bf927-66ef-416e-aa00-4f4d89f12bfa" alt="Figure 1" />
   <figcaption>Figure 1</figcaption>
 </figure>
 
@@ -95,10 +97,12 @@ This revelation struck me like a thunderclap. I, too, was shaken by the truth of
 
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/a5e9980b-b348-4fae-985c-fd65bae891a2" alt="Placeholder Image" />
+  <img src="https://github.com/user-attachments/assets/3c0e21e4-d2ac-4deb-b42c-0a425e7b5447" alt="figure 2" />
   <figcaption>Figure 2</figcaption>
 </figure>
 
+<br>
+<br>
 
  >_"Overall casualty rate of Newton could
  be less than that of Leibniz if at least one of the Newton's regiment's casualty rate had been less than that of Leibniz . There was no way that the weighted average of casualty rates could show such contrary results."_
@@ -121,7 +125,7 @@ Now, I ask you to take a moment and reflect on where the anomaly might lie. Why 
 The timing is perfect for a revelation!
 
 Brace yourself—here’s the formal definition of Simpson's Paradox:
->**Simpson's paradox is a phenomenon in probability and statistics in which a trend appears in several groups of data but disappears or reverses when the groups are combined.**
+**Simpson's paradox is a phenomenon in probability and statistics in which a trend appears in several groups of data but disappears or reverses when the groups are combined.**
 
 While you ponder this, let us dive deeper into the demographics of both armies. Understanding the makeup of _Newton_ and _Leibniz’s_ forces may provide the key to unraveling this perplexing paradox.
 
@@ -228,9 +232,12 @@ And you see, the mathematical results are consistent with the [figure 2](https:/
 This very phenomenon is vividly illustrated in Figure 3, where the casualty rates of four distinct military units are laid bare: Infantry I (the swordsmen of the first battalion), Infantry II (the archers of the second battalion), Cavalry I (the nimble, lightly armored cavalry), and Cavalry II (the mighty, heavily armored cavalry). With this partitioning, the data splits into four subsets, each telling its own tale. In every single one, Leibniz's battalion suffers greater casualties than Newton's—at least, that's what the numbers suggest.
 
 <figure>
-  <img src="https://github.com/user-attachments/assets/bdd688ab-5e3c-4098-9682-bf1385418091" alt="Placeholder Image" />
+  <img src="https://github.com/user-attachments/assets/a259b996-daae-4836-a751-18b5d5144ebb" alt="figure 3" />
   <figcaption>Figure 3</figcaption>
 </figure>
+
+<br>
+<br>
 Yet, as we zoom out and aggregate the data to the level of regiments, the tides begin to shift, and we encounter Figure 1. Here, a stunning reversal occurs—Leibniz's army now appears to have outperformed Newton's! But the twists do not end there. As we continue to aggregate the data, adding more layers, the final conclusion arrives, and once again, it’s Newton’s army that emerges victorious considering the  overall casualty rate.
 
 
