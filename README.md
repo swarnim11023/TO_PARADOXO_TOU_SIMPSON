@@ -1,23 +1,8 @@
 
-<style>
-  figure {
-    text-align: center;
-    margin: 10px 0;
-  }
-  figcaption {
-    font-style: italic;
-    font-size: 1.9em;
-    color: #255;
-  }
-</style>
-<center>
-
 # TO PARADOXO TOU SIMPSON
 
 
 ## SIMPSON'S PARADOX : WHEN STATISTICS  DEFY COMMON SENSE 
-
-
 </center>
 
  <!-- Lets dive back in time to 1711.
