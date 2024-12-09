@@ -227,6 +227,10 @@ And you see, the mathematical results are consistent with the [figure 2](https:/
 
 This very phenomenon is vividly illustrated in Figure 3, where the casualty rates of four distinct military units are laid bare: Infantry I (the swordsmen of the first battalion), Infantry II (the archers of the second battalion), Cavalry I (the nimble, lightly armored cavalry), and Cavalry II (the mighty, heavily armored cavalry). With this partitioning, the data splits into four subsets, each telling its own tale. In every single one, Leibniz's battalion suffers greater casualties than Newton's—at least, that's what the numbers suggest.
 
+<figure>
+  <img src="https://github.com/user-attachments/assets/bdd688ab-5e3c-4098-9682-bf1385418091" alt="Placeholder Image" />
+  <figcaption>Figure 3</figcaption>
+</figure>
 Yet, as we zoom out and aggregate the data to the level of regiments, the tides begin to shift, and we encounter Figure 1. Here, a stunning reversal occurs—Leibniz's army now appears to have outperformed Newton's! But the twists do not end there. As we continue to aggregate the data, adding more layers, the final conclusion arrives, and once again, it’s Newton’s army that emerges victorious considering the  overall casualty rate.
 
 
@@ -239,10 +243,6 @@ Yet, as we zoom out and aggregate the data to the level of regiments, the tides 
 
 This chain of reversals begs the ultimate question: **Which army truly proved superior?**
 
-<figure>
-  <img src="https://github.com/user-attachments/assets/bdd688ab-5e3c-4098-9682-bf1385418091" alt="Placeholder Image" />
-  <figcaption>Figure 3</figcaption>
-</figure>
 <!-- I provide you with even detailed demographics of both the armies and leave it up to you to verify the trend reversal we just saw. -->
 I now present you with even more detailed demographics of both armies and leave it to you to verify the trend reversal we’ve just witnessed.
 
