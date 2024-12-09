@@ -32,7 +32,7 @@ With that, I invite you to embark on a journey through my hypothetical world, wh
 
 Newton’s army boasts a formidable force of infantry  N<sub>i</sub> and cavalry  N<sub>c</sub>. Meanwhile, Leibniz’s troops are equally valiant, with infantry  L<sub>i</sub> and cavalry  L<sub>c</sub>.  
 
-The battlefield is set. The war rages on for **seven long years**, filled with intellectual maneuvers, strategic deductions, and battles of wits.  
+The battlefield is set. The war rages on for **five long years**, filled with intellectual maneuvers, strategic deductions, and battles of wits.  
 
 ---
 
