@@ -171,8 +171,6 @@ Earlier, we failed to account for a crucial variable: the composition of the arm
 ## WAS IT REALLY A PARADOX ?
 
 
-<!-- Although Newton's infantry had higher casuality rate than Leibniz's, But infantry constituted just 20 % of Newton's Army.In other words , almost all soldiers in infantry regiment died but , there were not many soldiers in that regiment to begin with !
-On the other hand, Leibniz's Army had a very high percentage of infantry with a very high casuality rate about 50 % !So,larger  proportion of infantry along with higher casuality rate was enough to push the overall casuality rate to the  extent where it exceeds Newton's Army's casuality rate . -->
 
 
 Although Newton's infantry suffered a higher casualty rate than Leibniz's, it made up only 20% of Newton's army. In other words, while nearly all soldiers in Newton's infantry regiment perished, the regiment itself was relatively small. 
