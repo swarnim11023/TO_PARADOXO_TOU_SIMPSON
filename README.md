@@ -182,14 +182,14 @@ Lets put the Mathematics going behind in front of you.
 
 From the graphs, the following observations are very straightforward:
 
-+ Casuality rate of _Newton's_ Infantry : **C.R.<sub>N<sub>i </sub> </sub> = _80%_**
-+ Casuality rate of _Newton's_ Cavalry : **C.R.<sub>N<sub>c </sub> </sub>=_25%_**<br>
++ Casuality rate of _Newton's_ Infantry :<br> **C.R.<sub>N<sub>i </sub> </sub> = _80%_**
++ Casuality rate of _Newton's_ Cavalry :<br> **C.R.<sub>N<sub>c </sub> </sub>=_25%_**<br>
 
 <br>
 
 
-+ Percentage of infantry in _Newton's_  Army: **P<sub>N<sub>i </sub> </sub>=_20%_**
-+ Percentage of cavalry in _Newton's_ Army : **P<sub>N<sub>c </sub> </sub>=_80%_**
++ Percentage of infantry in _Newton's_  Army: <br>**P<sub>N<sub>i </sub> </sub>=_20%_**
++ Percentage of cavalry in _Newton's_ Army :<br> **P<sub>N<sub>c </sub> </sub>=_80%_**
 
 <br>
 
@@ -198,13 +198,13 @@ From the graphs, the following observations are very straightforward:
 
 <br>
 
-+ Casuality rate of _Leibniz's_ Infantry : **C.R.<sub>L<sub>i </sub> </sub> = _50%_**
-+ Casuality rate of _Leibniz's_ Cavalry : **C.R.<sub>L<sub>c </sub> </sub>=_20%_**
++ Casuality rate of _Leibniz's_ Infantry :<br> **C.R.<sub>L<sub>i </sub> </sub> = _50%_**
++ Casuality rate of _Leibniz's_ Cavalry :<br> **C.R.<sub>L<sub>c </sub> </sub>=_20%_**
 
 <br>
 
-+ Percentage of infantry in _Leibniz's_  Army: **P<sub>L<sub>i </sub> </sub>=_80%_**
-+ Percentage of cavalry in _Leibniz's_ Army : **P<sub>L<sub>c </sub> </sub>=_20%_**
++ Percentage of infantry in _Leibniz's_  Army:<br> **P<sub>L<sub>i </sub> </sub>=_80%_**
++ Percentage of cavalry in _Leibniz's_ Army :<br> **P<sub>L<sub>c </sub> </sub>=_20%_**
 
 <br>
 
