@@ -25,7 +25,7 @@ Since childhood, I’ve dreamed of having a hypothesis named after me. Guess wha
 
 <!-- From this point on, your journey into my hypothetical world begins...   -->
 
-With that, I invite you to embark on a journey through my hypothetical world, where math is not just theory—it’s warfare.
+With that, I invite you to embark on a journey through my hypothetical world, **where math is not just theory—it’s warfare**.
 
 ## The Setup  
 
