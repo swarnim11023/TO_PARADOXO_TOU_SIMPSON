@@ -285,11 +285,17 @@ Do you want to hear one more truth?
 **Now, we must return to reality**. It’s time to set aside our imaginative scenarios and consider the true implications of Simpson’s Paradox. You might be wondering:
  **How does Simpson’s Paradox manifest itself in the real world?**
 
-
-
-
 <br><br><br><br><br><br><br><br><br><br>
 
+## Which Treatment Would You Choose?
+
+Imagine this—you’re sitting in a doctor’s office, weighing two treatment options for kidney stones. The first is a newer, less invasive method that sounds like something straight out of a sci-fi movie. The second? A traditional approach that’s been trusted for years.  
+
+The doctor pulls out the data, and it’s all neatly organized: raw numbers for each treatment, showing how many cases were successful out of the total treated, all neatly broken down by the size of the kidney stones.  
+
+Seems simple enough, right? Just pick the treatment with the higher success rate.
+
+But do the numbers tell the whole story? Or is there something lurking beneath the surface?
 
 
 
