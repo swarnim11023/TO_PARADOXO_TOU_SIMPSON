@@ -299,9 +299,16 @@ But do the numbers tell the whole story? Or is there something lurking beneath t
 
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/24d56244-bba9-4a45-9216-d5196cfb73b2" alt="Simpson-1">
-</div>
+<div align="center">  
+  <img src="https://github.com/user-attachments/assets/24d56244-bba9-4a45-9216-d5196cfb73b2" alt="Simpson-1">  
+</div>  
+
+<p><strong>Reference:</strong></p>  
+<p>Steven A. Julious and Mark A. Mullee (3 December 1994). <em>Confounding and Simpson's paradox</em>.  
+<strong>BMJ</strong>, <strong>309</strong>(6967): 1480–1481.  
+doi: <a href="https://doi.org/10.1136/bmj.309.6967.1480" target="_blank">10.1136/bmj.309.6967.1480</a>.  
+PMC: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2541623" target="_blank">2541623</a>.  
+PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/7804052/" target="_blank">7804052</a>.</p>
 
 
 
