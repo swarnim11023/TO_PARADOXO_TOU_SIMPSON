@@ -297,9 +297,13 @@ Seems simple enough, right? Just pick the treatment with the higher success rate
 
 But do the numbers tell the whole story? Or is there something lurking beneath the surface?
 
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/24d56244-bba9-4a45-9216-d5196cfb73b2" alt="Simpson-1">
 </div>
+
+
 
 ## Unraveling the Mystery: The Simpson's Paradox at Work
 
@@ -307,27 +311,31 @@ Let’s break this down step by step. At first glance, the data seems pretty str
 
 But here’s where things take an unexpected turn: when you combine the data for both small and large stones together, suddenly **treatment B** looks like the better treatment overall. 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bc3b8e6c-9fc3-452f-8c36-0a02b2d60f47" alt="Simpson-1">
+</div>
+
 **Confused? You're not the only one.**  
 
-It’s easy to look at the numbers and think, “How can this be? Treatment A was better for both small and large stones when looked at separately.” But the answer lies in the way the data is distributed. Here's what happened:
+It’s easy to look at the numbers and think, “How can this be? Treatment A was better for both small and large stones when looked at separately.” But the answer lies in the way the data is distributed. 
+Here's what happened:
 
-More patients with **small stones**, which are generally easier to treat, were assigned treatment B. At the same time, a larger proportion of patients with **large stones**, which are much harder to treat successfully, were assigned treatment A. The size of the kidney stone, it turns out, has a much greater impact on treatment success than the choice of treatment itself. Smaller stones have a much higher chance of success, regardless of which treatment is used. 
+More patients with **small stones**, (which are generally easier to treat) were assigned treatment B. At the same time, a larger proportion of patients with **large stones**, (which are much harder to treat successfully) were assigned treatment A. **The size of the kidney stone, it turns out, has a much greater impact on treatment success than the choice of treatment itself.** Smaller stones have a much higher chance of success, regardless of which treatment is used. 
 
 When we combine the groups, it creates an illusion that treatment B is more effective because more patients with small stones received it, and those patients had higher success rates. But if the distribution of patients between the two treatments had been more balanced, this paradox would not have appeared. 
 
-This is exactly why you can’t always trust the overall numbers without considering how the data is divided. Without factoring in the size of the kidney stone, you might draw the wrong conclusions.
+This is exactly why you can’t always trust the overall numbers without considering how the data is divided. **Without factoring in the size of the kidney stone, you might draw the wrong conclusions.**
 
 ---
 
 ### Why This Changed Everything
 
-Before this study, the size of the kidney stone wasn’t considered a major factor in treatment success—it was just another detail. But the study’s findings forced researchers to rethink this assumption. It became clear that **stone size** was a key determinant of treatment success, a factor no one had properly accounted for.
-
-This paradox wasn’t just an anomaly—it revealed a flaw in how the treatments were analyzed. What seemed like a simple comparison between two treatments turned out to be far more complex.
+Before this study, the size of the kidney stone wasn’t considered a major factor in treatment success—it was just another detail. But the study’s findings forced researchers to rethink this assumption. It became clear that **stone size was a key determinant of treatment success, a factor no one had properly accounted for.**
 
 This lesson extends beyond kidney stone treatments—it’s a reminder that data can be misleading if not carefully interpreted. The numbers may seem clear at first, but they can hide deeper truths. Simpson’s Paradox teaches us to question assumptions and dig deeper before drawing conclusions.
 
 
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 ****
