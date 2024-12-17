@@ -285,7 +285,11 @@ Do you want to hear one more truth?
 **Now, we must return to reality**. It’s time to set aside our imaginative scenarios and consider the true implications of Simpson’s Paradox. You might be wondering:
  **How does Simpson’s Paradox manifest itself in the real world?**
 
- Here’s a thought experiment to ground it:
+ It turns out, this paradox isn’t just a theoretical quirk—it appears in practical situations more often than you might think. Even during the COVID-19 pandemic, Simpson’s Paradox emerged: when comparing Case Fatality Rates (CFR) between China and Italy, Italy initially seemed to have a higher survival rate, but when the data was split by age group, the conclusion flipped.
+
+For now, let’s focus on one of the most well-known examples—a study comparing two approaches for treating kidney stones.
+
+<br><br>
 
 Picture yourself in a doctor’s office, faced with a tough decision. Two treatments for kidney stones are on the table. One is cutting-edge, promising to be minimally invasive—like something from a sci-fi novel. The other? A tried-and-true method that’s been around for years.
 
