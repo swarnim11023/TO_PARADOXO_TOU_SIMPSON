@@ -327,7 +327,7 @@ Here's what happened:
 
 More patients with **small stones**, (which are generally easier to treat) were assigned treatment B. At the same time, a larger proportion of patients with **large stones**, (which are much harder to treat successfully) were assigned treatment A. **The size of the kidney stone, it turns out, has a much greater impact on treatment success than the choice of treatment itself.** Smaller stones have a much higher chance of success, regardless of which treatment is used. 
 
-When we combine the groups, it creates an illusion that treatment B is more effective because more patients with small stones received it, and those patients had higher success rates. But if the distribution of patients between the two treatments had been more balanced, this paradox would not have appeared. 
+When we combine the groups, it creates an illusion that treatment B is more effective because more patients with small stones received it, and those patients had higher success rates. **But if the distribution of patients between the two treatments had been more balanced, this paradox would not have appeared.**
 
 This is exactly why you can’t always trust the overall numbers without considering how the data is divided. **Without factoring in the size of the kidney stone, you might draw the wrong conclusions.**
 
