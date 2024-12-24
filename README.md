@@ -277,10 +277,9 @@ We are short of time and we must come out of my hypothetical world ....its time 
 
 
 
-
 Do you want to hear one more truth?
 
-**Newton** and **Leibniz** never participated in any actual wars. While their intellectual battle over the discovery of calculus is legendary, they never fought on a physical battlefield. This fact serves as a powerful reminder to snap us out of the hypothetical world we've been exploring.
+**Newton** and **Leibniz** never participated in any actual wars :stuck_out_tongue_winking_eye: . While their intellectual battle over the discovery of calculus is legendary, they never fought on a physical battlefield. This fact serves as a powerful reminder to snap us out of the hypothetical world we've been exploring.
 
 **Now, we must return to reality**. It’s time to set aside our imaginative scenarios and consider the true implications of Simpson’s Paradox. You might be wondering:
  **How does Simpson’s Paradox manifest itself in the real world?**
