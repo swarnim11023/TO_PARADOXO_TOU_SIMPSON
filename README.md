@@ -34,27 +34,32 @@ With that, I invite you to embark on a journey through my hypothetical world, **
 
 Newton’s army boasts a formidable force of infantry  N<sub>i</sub> and cavalry  N<sub>c</sub>. Meanwhile, Leibniz’s troops are equally valiant, with infantry  L<sub>i</sub> and cavalry  L<sub>c</sub>.  
 
-The battlefield is set. The war rages on for **five long years**, filled with intellectual maneuvers, strategic deductions, and battles of wits.  
+<!--The battlefield is set. The war rages on for **five long years**, filled with intellectual maneuvers, strategic deductions, and battles of wits.  
 
 ---
 
 
 
 >_"Obviously, the greater the length of a war the higher is likely to be the number of casualties in it on either side."_
-<p align="right">— Douglas Haig</p>
+<p align="right">— Douglas Haig</p>  -->
 
             
 <!-- 
 Enough philosophy for the time being but the truth is both the  Armies suffered huge losses.
 As a renowned mathematician in my hypothetical world,I must analyse a puzzling statistic of the great war.Look at the graph below. -->
 
-
+<!--
 The brutal truth is that both armies suffered tremendous losses over the course of the war. 
 <!-- The toll of this conflict, while intellectual in nature, came at a heavy price. -->
-
-As a renowned mathematician in my hypothetical world, I must now turn my attention to a puzzling statistic from this great war. Let’s take a closer look at the graph below, where we begin to unravel the mystery of the devastating losses sustained by both sides in this epic battle of ideas.
+<!--
+As a renowned mathematician in my hypothetical world, I must now turn my attention to a puzzling statistic from this great war. Let’s take a closer look at the graph below, where we begin to unravel the mystery of the devastating losses sustained by both sides in this epic battle of ideas. -->
 
 <!-- ![fig1](https://github.com/user-attachments/assets/f76d0c38-0dc6-4aee-bed4-2f11c78b62b6) -->
+The battlefield is set. The war rages on for five long years, filled with intellectual maneuvers, strategic deductions, and relentless battles of wits. But in **1716**, just as **Leibniz’s** forces seem poised for victory, disaster strikes. The great **Leibniz**—*not by logic or a rival theorem, but by a cruel irony*—*misplaces his spectacles* and vanishes from the battlefield, leaving his ideas to falter.
+
+Both armies suffer tremendous losses over the course of this great war of ideas. As a mathematician in this hypothetical world, I now turn to the statistics that reveal the true scale of these intellectual casualties. Let’s examine the graph below, where we begin to unravel the mystery behind the staggering losses on both sides.
+
+
 
 
 <figure>
