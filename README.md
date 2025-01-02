@@ -192,36 +192,36 @@ Lets put the Mathematics going behind in front of you.
 
 From the graphs, the following observations are very straightforward:
 
-+ casualty rate of _Newton's_ Infantry :<br> **C.R.<sub>N<sub>i </sub> </sub> = _80%_**
-+ casualty rate of _Newton's_ Cavalry :<br> **C.R.<sub>N<sub>c </sub> </sub>=_25%_**<br>
+####  Casualty rate of _Newton's_ Infantry : **C.R.<sub>N<sub>i </sub> </sub> = _80%_**
+####  Casualty rate of _Newton's_ Cavalry : **C.R.<sub>N<sub>c </sub> </sub>=_25%_**
 
 <br>
 
 
-+ Percentage of infantry in _Newton's_  Army: <br>**P<sub>N<sub>i </sub> </sub>=_20%_**
-+ Percentage of cavalry in _Newton's_ Army :<br> **P<sub>N<sub>c </sub> </sub>=_80%_**
+####  Percentage of infantry in _Newton's_  Army: **P<sub>N<sub>i </sub> </sub>=_20%_**
+####  Percentage of cavalry in _Newton's_ Army : **P<sub>N<sub>c </sub> </sub>=_80%_**
 
 <br>
 
 
-#### **Overall casualty rate of Newton's Army = (C.R.<sub>N<sub>i </sub> </sub>x P<sub>N<sub>i </sub> </sub>) + ( C.R.<sub>N<sub>c </sub> </sub>x P<sub>N<sub>c </sub> </sub>) = _(80% x 20%) +(25% x 80%) = 36%_**
+### **Overall casualty rate of Newton's Army = (C.R.<sub>N<sub>i </sub> </sub>x P<sub>N<sub>i </sub> </sub>) + ( C.R.<sub>N<sub>c </sub> </sub>x P<sub>N<sub>c </sub> </sub>) = _(80% x 20%) +(25% x 80%) = 36%_**
 
 <br>
 
-+ casualty rate of _Leibniz's_ Infantry :<br> **C.R.<sub>L<sub>i </sub> </sub> = _50%_**
-+ casualty rate of _Leibniz's_ Cavalry :<br> **C.R.<sub>L<sub>c </sub> </sub>=_20%_**
+####  Casualty rate of _Leibniz's_ Infantry : **C.R.<sub>L<sub>i </sub> </sub> = _50%_**
+####  Casualty rate of _Leibniz's_ Cavalry : **C.R.<sub>L<sub>c </sub> </sub>=_20%_**
 
 <br>
 
-+ Percentage of infantry in _Leibniz's_  Army:<br> **P<sub>L<sub>i </sub> </sub>=_80%_**
-+ Percentage of cavalry in _Leibniz's_ Army :<br> **P<sub>L<sub>c </sub> </sub>=_20%_**
+####  Percentage of infantry in _Leibniz's_  Army: **P<sub>L<sub>i </sub> </sub>=_80%_**
+####  Percentage of cavalry in _Leibniz's_ Army : **P<sub>L<sub>c </sub> </sub>=_20%_**
 
 <br>
 
 
 
 
-#### **Overall casualty rate of Leibniz's Army = (C.R.<sub>L<sub>i </sub> </sub> x  P<sub>L<sub>i </sub> </sub>) + ( C.R.<sub>L<sub>c </sub> </sub> x P<sub>L<sub>c </sub> </sub>) = _(50% x 80%) +(20% x 20% )= 44%_**
+### **Overall casualty rate of Leibniz's Army = (C.R.<sub>L<sub>i </sub> </sub> x  P<sub>L<sub>i </sub> </sub>) + ( C.R.<sub>L<sub>c </sub> </sub> x P<sub>L<sub>c </sub> </sub>) = _(50% x 80%) +(20% x 20% )= 44%_**
 
 <!-- 
 
