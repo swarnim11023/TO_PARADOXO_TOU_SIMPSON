@@ -192,14 +192,12 @@ Lets put the Mathematics going behind in front of you.
 
 From the graphs, the following observations are very straightforward:
 
-####  Casualty rate of _Newton's_ Infantry : **C.R.<sub>N<sub>i </sub> </sub> = _80%_**
-####  Casualty rate of _Newton's_ Cavalry : **C.R.<sub>N<sub>c </sub> </sub>=_25%_**
+####  Casualty rate of _Newton's_ Infantry : **C.R.<sub>N<sub>i </sub> </sub> = _80%_**    Percentage of infantry in _Newton's_  Army: **P<sub>N<sub>i </sub> </sub>=_20%_**
+####  Casualty rate of _Newton's_ Cavalry : **C.R.<sub>N<sub>c </sub> </sub>=_25%_**    Percentage of cavalry in _Newton's_ Army : **P<sub>N<sub>c </sub> </sub>=_80%_**
 
 <br>
 
 
-####  Percentage of infantry in _Newton's_  Army: **P<sub>N<sub>i </sub> </sub>=_20%_**
-####  Percentage of cavalry in _Newton's_ Army : **P<sub>N<sub>c </sub> </sub>=_80%_**
 
 <br>
 
