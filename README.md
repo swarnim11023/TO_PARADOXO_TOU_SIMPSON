@@ -334,6 +334,37 @@ Before this study, the size of the kidney stone wasn’t considered a major fact
 
 This lesson extends beyond kidney stone treatments—it’s a reminder that data can be misleading if not carefully interpreted. The numbers may seem clear at first, but they can hide deeper truths. Simpson’s Paradox teaches us to question assumptions and dig deeper before drawing conclusions.
 
+---
+## How to **Avoid** this mirage?
+
+We have seen the valiant fight between newton and leibniz and understood the emergence of simpson's paradox at work.But how to identify that we are being victim of it and tackle it?
+Don't worry! we have got a checklist for you also.
+
+### How to identify Simpson's Paradox:-
+>“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.”-Albert Einstien
+
+- **Checking Trend Reversal** :By trend reversal we mean getting contradictory results when data is aggrevated vs. when data is broken down into subgroups. As we seen in Example of war between Newton and Leibniz ,
+- **Confounding Variables(the missing factor)** :During our analysis there can a potential confounding variable which could influence the relationship between our Interest variables it is often missed which led us in being the victim of this paradox.As in the example of Study of Kidney Stone we have Size of Kidney stone as confounding variable.stone size was a key determinant of treatment success, a factor no one had properly accounted for.
+
+### Ways to **Avoid** Simpson's Paradox:-
+For avoiding the we will identify the solution of its potential reasons
+- **Identify and Control of Confounding Variables** : We have seen how to identify Confounding variable.Here are some important ways of controling the confounding variables:
+
+  **1.Data Stratification**:Divide the data into subgroups based on the confounding variable and analyze the trend within each subgroup or strata.Always examine data at multiple level of aggregation.
+  
+  **2.Matching or Comparison**:Match individuals in the different groups based on the confounding variable to create more comparable groups.
+
+  **3.Regression Analysis**: Include the confounding variable as a control variable in the regression model.An image of Visualization of Regression analysis of [Iris dataset](https://gist.github.com/curran/a08a1080b88344b0c8a7) is given below.
+
+   
+![Regression Anaylsis of Iris Dataset](https://github.com/rupantd23/TO_PARADOXO_TOU_SIMPSON/blob/main/Rplot.png)
+
+
+- **Unbiased Data Collection**:Collect data on potential confounding variables during study design.Also Consider the potential impact of confounding variables when designing the study so that it could easily be tackled.
+
+- **Data Visualization and correct interpretation**:Always use appropriate visualizations to highlight potential subgroups and trends.Create visualization of aggregate and disaggregated data.Discuss potential alternative explaination and Be transparent about **Methodology**.
+
+ 
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
